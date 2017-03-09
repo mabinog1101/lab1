@@ -1,0 +1,15 @@
+Script started on Thu 09 Mar 2017 07:06:09 AM PST
+]0;yeh@ubuntu: ~/f74059017yeh@ubuntu:~/f74059017$ who [Kami;pwd
+yeh
+/home/yeh/f74059017
+]0;yeh@ubuntu: ~/f74059017yeh@ubuntu:~/f74059017$ git config -l
+user.email=mabinogi1101@gmail.com
+user.name=mabinogi1101
+core.editor=vim
+]0;yeh@ubuntu: ~/f74059017yeh@ubuntu:~/f74059017$ git clone https://github.com/mabinog1101/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+]0;yeh@ubuntu: ~/f74059017yeh@ubuntu:~/f74059017$ exit
+
+Script done on Thu 09 Mar 2017 07:07:24 AM PST
